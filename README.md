@@ -1,3 +1,6 @@
+![MassSpec Explorer Logo](ChatGPT%20Image%20Aug%2029%2C%202025%2C%2011_37_31%20PM.png)
+
+
 # 🔬 PyOpenMS Exploration Project
 
 This project demonstrates the usage of **PyOpenMS**, a Python library for computational mass spectrometry and bioinformatics.
